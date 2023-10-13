@@ -2,6 +2,12 @@ package br.com.formulasmatematicas;
 
 import java.util.Scanner;
 
+/*
+ * Escreva um programa que solicite ao usuario
+ * dois numeros e exiba a soma, subtracao, multiplicacao 
+ * e divisão entre eles
+ * 
+ * */
 public class Calculadora {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
