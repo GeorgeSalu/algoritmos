@@ -7,7 +7,7 @@ import java.util.Scanner;
  * de um circulo, solicitando o raio ao usuario
  * 
  * */
-public class CalcularPerimetroCirtulo {
+public class CalcularPerimetroCirculo {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
