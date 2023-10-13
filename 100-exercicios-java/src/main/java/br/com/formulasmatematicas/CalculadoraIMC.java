@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * Escreva um programa que calcule o IMC de um individuo
- * utilizando a formula IMC = peso / altura  
+ * utilizando a formula IMC = peso / altura²  
  * 
  * */
 public class CalculadoraIMC {
