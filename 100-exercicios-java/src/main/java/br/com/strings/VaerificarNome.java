@@ -19,7 +19,7 @@ public class VaerificarNome {
 		String nomeMinusculo = nome.toLowerCase();
 		
 		if(nomeMinusculo.startsWith("a")) {
-			System.out.println("O nome comça com a letra A");
+			System.out.println("O nome começa com a letra A");
 		} else {
 			System.out.println("O nome não começa com a letra A");
 		}
