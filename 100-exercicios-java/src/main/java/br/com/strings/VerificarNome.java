@@ -8,7 +8,7 @@ import java.util.Scanner;
  * verifique se o mesmo começa com a letra 'A'
  *
  */
-public class VaerificarNome {
+public class VerificarNome {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		
