@@ -20,7 +20,7 @@ public class VerificarNumero {
 		} else if(numero < 0) {
 			System.out.println("o numero é negativo");
 		} else {
-			System.out.println("o umero é zero");
+			System.out.println("o numero é zero");
 		}
 		
 		scanner.close();
