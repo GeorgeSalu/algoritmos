@@ -1,6 +1,6 @@
 /*
   crie um programa que calcule e exiba a media
-  artimetica de tres notas informadas pelo usario
+  artimetica de tres notas informadas pelo usuario
 */
 
 let nota1 = parseFloat(prompt("digite a primira nota:"));
