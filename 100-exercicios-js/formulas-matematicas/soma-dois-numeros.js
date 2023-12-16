@@ -1,3 +1,8 @@
+/*
+  Escreva um programa que solicite ao usuario dos numeros e exiba
+  a soma, subtracao, multipliação e divisao entre eles
+*/
+
 let num1 = parseFloat(prompt("Digite o primeiro numero:"));
 let num2 = parseFloat(prompt("Digite o segundo numero:"));
 
