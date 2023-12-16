@@ -1,3 +1,8 @@
+/*
+  Escreva um programa que calcule a media aritmetica
+  de dois numeros
+*/
+
 let num1 = parseFloat(prompt("Digite o primeiro numero:"));
 let num2 = parseFloat(prompt("Digite o segundo numero:"));
 
