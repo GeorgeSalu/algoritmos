@@ -1,5 +1,5 @@
 /*
-  escreva um programa que calcule a aread do um 
+  escreva um programa que calcule a area do um 
   circulo a partir do raio, utilizando a formula a=PIr
 */
 
