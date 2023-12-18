@@ -1,3 +1,7 @@
+/*
+  escreva um programa que calcule a media geometrica
+  entre tres numeros informados pelo usuario
+*/
 
 let num1 = parseFloat(prompt("digite o primeiro numero:"));
 let num2 = parseFloat(prompt("digite o segundo numero:"));
