@@ -1,3 +1,8 @@
+/*
+  escreva um programa que calcule a aread do um 
+  circulo a partir do raio, utilizando a formula a=PIr
+*/
+
 let raio = parseFloat(prompt("digite o raio do circulo:"));
 
 let area = Math.PI * Math.pow(raio, 2);
