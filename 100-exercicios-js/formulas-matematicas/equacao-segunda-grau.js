@@ -1,3 +1,8 @@
+/*
+  escreva um programa que calcule a equação do segundo
+  grau utilizando as formulas de baskara
+*/
+
 let a = parseFloat(prompt("digite o valor de a:"));
 let b = parseFloat(prompt("digite o valor de b:"));
 let c = parseFloat(prompt("digite o valor de c:"));
