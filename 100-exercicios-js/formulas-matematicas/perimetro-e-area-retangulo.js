@@ -3,7 +3,7 @@
   de um retangulo
 */
 
-let largura = parseFloat(prompt("digite a largura do rtangulo:"));
+let largura = parseFloat(prompt("digite a largura do retangulo:"));
 let comprimento = parseFloat(prompt("digite o comprimento do retangulo:"));
 
 let perimetro = 2 * (largura + comprimento);
