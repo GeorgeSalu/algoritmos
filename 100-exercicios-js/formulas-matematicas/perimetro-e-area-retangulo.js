@@ -1,3 +1,8 @@
+/*
+  escreva um programa que calcule o perimetro e a area
+  de um retangulo
+*/
+
 let largura = parseFloat(prompt("digite a largura do rtangulo:"));
 let comprimento = parseFloat(prompt("digite o comprimento do retangulo:"));
 
