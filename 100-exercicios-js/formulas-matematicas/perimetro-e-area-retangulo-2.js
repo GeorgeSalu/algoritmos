@@ -1,5 +1,5 @@
 /*
-  escreva um programa que calcule o perimetro e a area de um triangulo,
+  10. escreva um programa que calcule o perimetro e a area de um triangulo,
   utilizando as formulas p = a + b + c e A = (b * h)/ 2, onde a,b e c
   são lados do triangulo e h é a altura relativa ao lado b
 */
