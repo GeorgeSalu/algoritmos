@@ -1,5 +1,5 @@
 /*
-  crie um programa que leia duas palavras e as concatene,
+  16. crie um programa que leia duas palavras e as concatene,
   exibindo a palavra resultante
 */
 
