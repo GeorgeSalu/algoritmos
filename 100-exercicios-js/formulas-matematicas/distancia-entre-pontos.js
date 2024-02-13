@@ -1,3 +1,8 @@
+/*
+  14. escreva um programa que leia a posição x e y de dois pontos no plano
+  cartesiano, e calcule a distancia entre ambos
+*/
+
 let x1 = parseFloat(prompt("digite a coordenada x do primeiro ponto:"));
 let y1 = parseFloat(prompt("digite a coordenada y do primeiro ponto:"));
 
