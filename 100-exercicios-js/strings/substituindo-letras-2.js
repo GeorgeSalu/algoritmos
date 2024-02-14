@@ -1,6 +1,6 @@
 /*
   18. crie um programa que receba uma frase e substitua
-  todas as letras "a" por "e"
+  todas as letras "a" por "e" (usando laco de repetição)
 */
 
 let frase = prompt("digite uma frase");
