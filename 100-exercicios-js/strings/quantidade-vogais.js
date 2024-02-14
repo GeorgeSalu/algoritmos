@@ -1,3 +1,10 @@
+/**
+ * 
+ * 24. crie um programa que leia uma palavra e exiba a 
+ * quantidade de vogais presentes na mesma 
+ * 
+ */
+
 let palavra = prompt("digite uma palavra");
 
 palavra = palavra.toLowerCase();
@@ -10,7 +17,7 @@ for(let i = 0; i < palavra.length; i++) {
   if(letra === "a" || letra === "e" || letra === "i" || letra === "o" || letra === "u") {
     quantidadeVogais++; 
   }
-  
+
 }
 
 console.log("a palavra possui ", quantidadeVogais, " vogais ")
