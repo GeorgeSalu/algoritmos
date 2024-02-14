@@ -1,3 +1,8 @@
+/*
+  18. crie um programa que receba uma frase e substitua
+  todas as letras "a" por "e"
+*/
+
 let frase = prompt("digite uma frase");
 
 let caracteres = frase.split("");
