@@ -1,6 +1,6 @@
 /**
  * 
- * faça um programa que receba uma frase e exiba a
+ * 23. faça um programa que receba uma frase e exiba a
  * quantidade de espaços em branco presentes na mesma
  * 
  */
