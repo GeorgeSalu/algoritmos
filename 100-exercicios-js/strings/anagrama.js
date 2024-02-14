@@ -1,3 +1,8 @@
+/*
+  21. crie um programa que leia duas palavras e verifique
+  se a segunda palavra é um anagrama da primeira
+*/
+
 let palavra1 = prompt("digite a primeira palavra");
 let palavra2 = prompt("digite a segunda palavra");
 
