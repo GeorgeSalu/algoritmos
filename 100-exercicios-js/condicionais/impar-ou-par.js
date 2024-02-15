@@ -1,3 +1,10 @@
+/**
+ * 
+ * 29. faça um programa que leia um numero
+ * e informe se ele é par ou impar
+ * 
+ */
+
 let numero = prompt("digite um numero:");
 
 numero = parseInt(numero);
