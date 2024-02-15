@@ -1,3 +1,10 @@
+/**
+ * 
+ * 27. faça um programa que leia dois numeros e 
+ * informe qual o maior
+ * 
+ */
+
 let numero1 = prompt("digite o primeiro numero: ");
 let numero2 = prompt("digite o segundo numero: ");
 
