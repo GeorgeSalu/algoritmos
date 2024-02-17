@@ -1,3 +1,10 @@
+/***
+ * 
+ * 35. faça um programa que leia tres numeros e 
+ * informe qual é o maior e qual o menor
+ * 
+ */
+
 let num1 = parseFloat(prompt("digite o primeiro numero: "));
 let num2 = parseFloat(prompt("digite o segundo numero: "));
 let num3 = parseFloat(prompt("digite o terceiro numero: "));
