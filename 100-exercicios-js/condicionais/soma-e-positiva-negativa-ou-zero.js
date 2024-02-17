@@ -1,6 +1,6 @@
 /**
  * 
- * crie um programa que leia tres numeros e verifique
+ * 34. crie um programa que leia tres numeros e verifique
  * se a soma deles é positiva, negativa ou zero
  * 
  */
