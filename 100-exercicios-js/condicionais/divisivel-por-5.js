@@ -1,3 +1,10 @@
+/**
+ * 
+ * 33. faça um programa que leia tres numeros, e 
+ * informe se a soma deles é divisivel por 5 ou não
+ * 
+ */
+
 let num1 = parseInt(prompt("digite o primeiro numero: "));
 let num2 = parseInt(prompt("digite o segundo numero: "));
 let num3 = parseInt(prompt("digite o terceiro numero: "));
