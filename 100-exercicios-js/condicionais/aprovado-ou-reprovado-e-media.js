@@ -1,3 +1,12 @@
+/***
+ * 
+ * 32. faça um programa que leia as notas de duas provas,
+ * calcule a media aritmetica simples, e informe se o aluno
+ * foi aprovado (media maior ou igual a 6) ou reprovado 
+ * (media menor que 6)
+ * 
+ */
+
 let nota1 = parseFloat(prompt("digite a nota da primeira prova : "));
 let nota2 = parseFloat(prompt("digite a nota da segunda prova : "));
 
