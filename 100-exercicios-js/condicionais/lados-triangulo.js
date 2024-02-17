@@ -10,7 +10,7 @@ let lado2 = parseFloat(prompt("digite o terceiro lado do triangulo : "));
 let lado3 = parseFloat(prompt("digite o terceiro lado do triangulo : "));
 
 if(lado1 + lado2 > lado3 && lado1 + lado3 > lado2 && lado2 + lado3 > lado1) {
-  console.log("os numeros podem ser lados de um treiangulo");
+  console.log("os numeros podem ser lados de um triangulo");
 } else {
   console.log("os numeros nao podem formar um triangulo")
 }
