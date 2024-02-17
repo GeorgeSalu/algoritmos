@@ -1,3 +1,12 @@
+/**
+ * 
+ * 36. faça um programa que leia a idade de tres pessoas e 
+ * informe se alguma delas é maior de idade (idade maior
+ * ou igual a 18), se todas são maiores de idade, ou se todas
+ * são menores de idade (idade inferior a 18 anos)
+ * 
+ */
+
 let idade1 = parseInt(prompt("digite a idade da primeira pessoa : "));
 let idade2 = parseInt(prompt("digite a idade da segunda pessoa : "));
 let idade3 = parseInt(prompt("digite a idade da terceira pessoa : "));
