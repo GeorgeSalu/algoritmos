@@ -1,6 +1,6 @@
 /**
  * 
- * 4. faça um programa que solicite o nome de um dia
+ * 41. faça um programa que solicite o nome de um dia
  * da semana e exiba se é um dia util (segunda a sexta-feira)
  * ou um dia de fim de semana (sabado   e domingo)
  * 
