@@ -1,3 +1,10 @@
+/**
+ * 
+ * 42. escreva um programa que solicite a altura e o peso
+ * de uma pessoa e calcule o seu indice de massa corporal
+ * 
+ */
+
 let altura = parseFloat(prompt("digite a altura em metros : "));
 let peso = parseFloat(prompt("digite o peso em kg : "));  
 
