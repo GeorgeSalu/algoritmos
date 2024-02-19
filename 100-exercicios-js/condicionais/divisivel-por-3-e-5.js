@@ -1,6 +1,6 @@
 /**
  * 
- * escreva um programa que solicite um numero inteiro
+ * 43. escreva um programa que solicite um numero inteiro
  * e verifique se é divisivel por 3 e por 5 ao mesmo
  * tempo
  * 
