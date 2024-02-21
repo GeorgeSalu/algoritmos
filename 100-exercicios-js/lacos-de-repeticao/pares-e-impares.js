@@ -2,7 +2,7 @@
  * 
  * 49. escreva um programa que exiba os numeros 
  * pares de 1 a 50 e os numeros impares de 51 a 
- * 100 utlizando um laço de repeticao
+ * 100 utlizando um laço de repetição
  * 
  */
 
