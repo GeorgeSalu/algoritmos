@@ -2,7 +2,7 @@
  * 
  * 
  * 50. crie um programa que solicite ao usuario 
- * um numero e exiba a tabuada desse numero
+ * um numero e exiba a tabuada de multiplicação desse numero
  * 
  * 
  */
