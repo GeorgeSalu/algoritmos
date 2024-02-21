@@ -1,7 +1,7 @@
 /***
  * 
  * 51. escreva um programa que imprima na tela 
- * a tabuada de todos os numeros de 1 a a10
+ * a tabuada de todos os numeros de 1 a 10
  * 
  */
 
