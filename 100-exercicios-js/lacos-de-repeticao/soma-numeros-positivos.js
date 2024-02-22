@@ -2,7 +2,7 @@
  * 
  * 
  * 60. escreva um programa que leia numeros do usuario 
- * ate que seja digitado um numero negativo e exxiba a 
+ * ate que seja digitado um numero negativo e exiba a 
  * soma dos numeros positivos
  * 
  * 
