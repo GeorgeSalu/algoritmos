@@ -1,3 +1,13 @@
+/***
+ * 
+ * 
+ * 56. escreva um programa que solicite ao usuario um
+ * numero N e exiba todos os numeros primos menores que
+ * N
+ * 
+ * 
+ */
+
 let numero = parseInt(prompt("digite um numero : "));
 
 function isPrimo(num) {
