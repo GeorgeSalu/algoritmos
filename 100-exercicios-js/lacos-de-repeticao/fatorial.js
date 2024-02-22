@@ -2,7 +2,7 @@
  * 
  * 
  * 58. crie um programa que exiba o fatorial de N, onde
- * N é informado pelo usuario
+ * N é informado pelo usuario, utilizando um laço de repetição
  * 
  * 
  */
