@@ -1,3 +1,13 @@
+/***
+ * 
+ * 
+ * 60. escreva um programa que leia numeros do usuario 
+ * ate que seja digitado um numero negativo e exxiba a 
+ * soma dos numeros positivos
+ * 
+ * 
+ */
+
 let numero;
 let soma = 0;
 
