@@ -13,7 +13,7 @@ let max = -Infinity;
 let number;
 
 do {
-  number = parseFloat(prompt("digite um numero : "));
+  number = parseFloat(prompt("digite um numero (ou zero para encerrar) : "));
 
   if(number !== 0) {
     if(number < min) {
