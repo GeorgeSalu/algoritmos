@@ -1,3 +1,12 @@
+/***
+ * 
+ * 
+ * 62. escreva um programa que leia numeros dos usuario ate
+ * que seja digitado zero e exiba a media dos numeros digitados
+ * 
+ * 
+ */
+
 let sum = 0;
 let count = 0;
 let number;
