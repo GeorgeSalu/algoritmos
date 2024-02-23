@@ -1,3 +1,13 @@
+/***
+ * 
+ * 
+ * 67. escreva um programa que solicite ao usuario um
+ * numero é exiba os seus divisoeres
+ * 
+ * 
+ * 
+ */
+
 const numero = parseInt(prompt("digite um numero : "));
 
 console.log("divisores de "+numero+" :");
