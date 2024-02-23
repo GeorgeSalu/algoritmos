@@ -1,3 +1,15 @@
+/***
+ * 
+ * 
+ * 
+ * 69. faça um programa que determina o maximo 
+ * divisor comum (mdc) entre dois numeros informados
+ * pelo usuario
+ * 
+ * 
+ * 
+ */
+
 const numero1 = parseInt(prompt("digite o primeiro numero : "));
 const numero2 = parseInt(prompt("digite o segundo numero : "));
 
