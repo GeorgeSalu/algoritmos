@@ -3,7 +3,7 @@
  * 
  * 66. escreva um programa que leia uma sequencia 
  * de caracteres e indique se a mesma é um palindromo 
- * ou não
+ * ou não (usando uma função)
  * 
  * 
  * 
