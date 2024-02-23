@@ -10,10 +10,10 @@
  */
 
 const frase = prompt("digite uma frase : ");
-let fraseInvertidae = "";
+let fraseInvertida = "";
 
 for(let i = frase.length - 1; i >= 0; i--) {
-  fraseInvertidae += frase[i];
+  fraseInvertida += frase[i];
 }
 
-console.log("frase invertidade : "+fraseInvertidae)
+console.log("frase invertidade : "+fraseInvertida)
