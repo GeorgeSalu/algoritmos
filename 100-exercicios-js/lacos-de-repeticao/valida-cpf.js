@@ -1,3 +1,15 @@
+/***
+ * 
+ * 
+ * 
+ * 70. faça um programa que solicite o cpf do usuario
+ * e então faça a validação do mesmo
+ * 
+ * 
+ * 
+ * 
+ */
+
 let cpfNumeros = prompt("digite um cpf para verificacao de integridade : ");
 
 console.log(cpfNumeros)
