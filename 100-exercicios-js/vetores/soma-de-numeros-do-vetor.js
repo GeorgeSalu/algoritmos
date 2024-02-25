@@ -2,7 +2,7 @@
  * 
  * 
  * 
- * 71crie um programa que leia um vetor de numeros inteiros
+ * 71. crie um programa que leia um vetor de numeros inteiros
  * e exiba a soma de todos os elementos
  * 
  * 
