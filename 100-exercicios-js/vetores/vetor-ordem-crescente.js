@@ -2,8 +2,8 @@
  * 
  * 
  * 
- * 75. faça um programa que leia um vetor de numeros inteiros
- * e verifique se ele esta em ordem crescente.
+ * 75. faça um programa que leia um vetor de numeros 
+ * inteiros e verifique se ele esta em ordem crescente.
  * 
  * 
  * 
