@@ -2,7 +2,7 @@
  * 
  * 
  * 
- * 73, escreva um programa que leia um vetor de numeros 
+ * 73. escreva um programa que leia um vetor de numeros 
  * inteiros e exiba a media aritmetica dos elementos.
  * 
  * 
