@@ -39,4 +39,4 @@ for(let i = 0; i < quantidade; i++) {
 }
 
 // exibe o vetor com a soma dos elementos correspondentes
-console.log(`vetor com a soma dos elementos corespondentes : ${vetorSoma}`)
+console.log(`vetor com a soma dos elementos correspondentes : ${vetorSoma}`)
