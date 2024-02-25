@@ -25,4 +25,4 @@ for(let i = 1;i < vetor.length; i++) {
   }
 }
 
-console.log("o maior elemento do vetor é : "+maior)
+console.log(`o maior elemento do vetor é : ${maior}`)
