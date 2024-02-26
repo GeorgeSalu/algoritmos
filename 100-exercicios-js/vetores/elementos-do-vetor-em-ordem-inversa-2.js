@@ -18,6 +18,8 @@ for(let i = 0;i < quantidade; i++) {
   vetor.push(numero);
 }
 
+console.log("vetor original : ", vetor)
+
 vetor.reverse();
 
 console.log("vetor invertido : ", vetor)
