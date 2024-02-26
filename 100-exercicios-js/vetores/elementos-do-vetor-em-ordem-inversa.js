@@ -9,18 +9,18 @@
  * 
  * 
  */
-const quantiadde = parseInt(prompt("digite a quantidade de elementos do vetor : "));
+const quantidade = parseInt(prompt("digite a quantidade de elementos do vetor : "));
 
 const vetor = [];
 
-for(let i = 0; i < quantiadde; i++) {
+for(let i = 0; i < quantidade; i++) {
   const numero = parseInt(prompt(`digite o elemento ${i + i} do vetor : `));
   vetor.push(numero);
 }
 
 const vetorInverso = [];
 
-for(let i = quantiadde - 1; i >= 0; i--) {
+for(let i = quantidade - 1; i >= 0; i--) {
   vetorInverso.push(vetor[i]);
 }
 
