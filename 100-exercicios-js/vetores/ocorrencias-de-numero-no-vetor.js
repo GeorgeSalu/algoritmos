@@ -30,4 +30,5 @@ for(let i = 0;i < vetor.length; i++) {
   }
 }
 
+console.log(`o vetor :`+vetor)
 console.log(`o numero ${numeroBuscado} aparece ${contador} vezes no vetor`)
