@@ -17,4 +17,17 @@ for(let i = 0; i < quantidade; i++) {
   vetor.push(numero);
 }
 
-console.log(vetor);
+let emOrdemCrescente = true;
+
+for(let i = 0; i < quantidade - 1; i++) {
+  if(vetor[i] > vetor[i + 1]) {
+    emOrdemCrescente = false;
+    break;
+  }
+}
+
+if(emOrdemCrescente) {
+  console.log("o vetor esta em ordem cresent");
+} else {
+  console.log("o vetor não esta em ordem crescente")
+}
