@@ -20,14 +20,14 @@ for(let i = 0; i < quantidade; i++) {
   vetor.push(numero);
 }
 
-const numeroDuscado = parseInt(prompt(`digite um numero a ser buscado : `));
+const numeroBuscado = parseInt(prompt(`digite um numero a ser buscado : `));
 
 let contador = 0;
 
 for(let i = 0;i < vetor.length; i++) {
-  if(vetor[i] === numeroDuscado) {
+  if(vetor[i] === numeroBuscado) {
     contador++;
   }
 }
 
-console.log(`o numero ${numeroDuscado} aparece ${contador} vezes no vetor`)
+console.log(`o numero ${numeroBuscado} aparece ${contador} vezes no vetor`)
