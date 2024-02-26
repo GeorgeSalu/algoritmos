@@ -1,3 +1,15 @@
+/**
+ * 
+ * 
+ * 
+ * 77. crie um programa que leia um vetor de numeros inteiros
+ * e encontre o segundo maior elemento presente no vetor
+ * 
+ * 
+ * 
+ * 
+ */
+
 const quantidade = parseInt(prompt("digite a quantiade de elementos do vetor : "));
 
 const vetor = [];
