@@ -27,7 +27,7 @@ for(let i = 0; i < quantidade - 1; i++) {
 }
 
 if(emOrdemCrescente) {
-  console.log("o vetor esta em ordem cresent");
+  console.log("o vetor esta em ordem crescente");
 } else {
   console.log("o vetor não esta em ordem crescente")
 }
