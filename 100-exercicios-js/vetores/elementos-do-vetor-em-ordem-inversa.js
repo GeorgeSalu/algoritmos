@@ -2,7 +2,7 @@
  * 
  * 
  * 
- * 76, escreva um programa que leia um vetor de numeros 
+ * 76. escreva um programa que leia um vetor de numeros 
  * inteiros e exiba os elementos na ordem inversa. 
  * 
  * 
