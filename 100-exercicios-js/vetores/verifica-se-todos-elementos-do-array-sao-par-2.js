@@ -20,6 +20,7 @@ for(let i = 0; i < quantidade; i++) {
   vetor.push(numero);
 }
 
+// usando filter
 const impares = vetor.filter(numero => numero % 2 !== 0);
 
 if(impares.length === 0) {
