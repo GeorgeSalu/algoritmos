@@ -25,5 +25,5 @@ const impares = vetor.filter(numero => numero % 2 !== 0);
 if(impares.length === 0) {
   console.log("todos os elementos do vetor sao pares")
 } else {
-  console.log("o velor contem elementos impares")
+  console.log("o vetor contem elementos impares")
 }
