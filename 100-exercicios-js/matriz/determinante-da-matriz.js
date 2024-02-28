@@ -12,6 +12,21 @@
  * 
  * 
  */
+const matriz = [];
+for(let i = 0;i < 3;i++) {
+  matriz[i] = [];
+  for(let j = 0;j < 3; j++) {
+    matriz[i][j] = parseInt(prompt(`digite em (${i + 1}, ${j + 1})`));
+  }
+}
+
+console.log("matriz : ");
+for(let i = 0;i < 3;i++) {
+  console.log(matriz[i].join(" "));
+}
+
+const determinante = calculaDeterminante(matriz);
+console.log("determinante : ", determinante)
 
 
 function calculaDeterminante(matriz) {
