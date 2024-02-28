@@ -3,7 +3,7 @@
  * 
  * 
  * 
- * 88. faça um programa que preencha uma matriz 4x4 
+ * 86. faça um programa que preencha uma matriz 4x4 
  * com numeros aleatorios e exiba a soma dos valores
  * preseentes em cada linha e em cada coluna.
  * 
