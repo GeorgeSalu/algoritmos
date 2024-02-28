@@ -34,5 +34,7 @@ for(let i = 0; i < 5; i++) {
   }
 }
 
+console.log("matriz")
+console.table(matriz)
 console.log("o maior valor da matriz é "+maiorValor);
 console.log(` se encntra na posicao : [${posicaoMaiorValor[0]}] [${posicaoMaiorValor[1]}]`)
