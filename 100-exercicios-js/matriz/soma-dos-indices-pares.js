@@ -37,4 +37,6 @@ for(let i = 0; i < 3; i++) {
 
 const media = soma / contador;
 
+console.log("matriz")
+console.table(matriz)
 console.log(`resultado ${media.toFixed(2)}`)
