@@ -2,7 +2,7 @@
  * 
  * 
  * 
- * 82. faça um programa que preencha uam matriz 4x4
+ * 82. faça um programa que preencha uma matriz 4x4
  * com valores aleatorios e exiba a matriz transposta
  * 
  * 
