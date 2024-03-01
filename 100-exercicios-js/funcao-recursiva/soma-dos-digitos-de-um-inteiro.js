@@ -1,3 +1,16 @@
+/**
+ * 
+ * 
+ * 
+ * 
+ * 94. desenvolva uma funcção recursiva para calcular 
+ * a soma dos digitos de um numero inteiro
+ * 
+ * 
+ * 
+ */
+
+
 function somaDigitos(numero) {
 
   if(numero < 10) {
