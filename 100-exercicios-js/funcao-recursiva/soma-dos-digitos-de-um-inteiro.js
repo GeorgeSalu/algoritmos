@@ -3,7 +3,7 @@
  * 
  * 
  * 
- * 94. desenvolva uma funcção recursiva para calcular 
+ * 94. desenvolva uma função recursiva para calcular 
  * a soma dos digitos de um numero inteiro
  * 
  * 

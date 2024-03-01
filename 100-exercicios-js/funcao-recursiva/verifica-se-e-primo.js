@@ -1,7 +1,7 @@
 /**
  * 
  * 
- * 93. crie uma funcção recursiva para
+ * 93. crie uma função recursiva para
  * verificar se um numero é primo
  * 
  * 
