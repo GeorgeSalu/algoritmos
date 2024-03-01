@@ -1,3 +1,15 @@
+/**
+ * 
+ * 
+ * 
+ * 91. escreva uma função recursiva para calcular
+ * o fatorial de um numero
+ * 
+ * 
+ * 
+ * 
+ */
+
 function calculaFatorial(numero) {
   if(numero === 0) {
     return 1;
