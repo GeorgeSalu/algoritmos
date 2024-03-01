@@ -1,3 +1,14 @@
+/**
+ * 
+ * 
+ * 93. crie uma funcção recursiva para
+ * verificar se um numero é primo
+ * 
+ * 
+ * 
+ */
+
+
 function isPrimo(n, divisor = 2) {
   if(n <= 1) {
     return false;
