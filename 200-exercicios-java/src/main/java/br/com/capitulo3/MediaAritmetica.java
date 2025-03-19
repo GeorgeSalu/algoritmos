@@ -2,6 +2,11 @@ package br.com.capitulo3;
 
 import java.util.Scanner;
 
+/*
+ * 
+ * Escreva um programa que leia três números inteiros do usuário e calcule a média aritmética deles. Exiba o resultado no console.
+ * 
+ * */
 public class MediaAritmetica {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

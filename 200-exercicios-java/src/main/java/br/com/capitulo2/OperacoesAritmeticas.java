@@ -1,5 +1,10 @@
 package br.com.capitulo2;
 
+/*
+ * 
+ * Desenvolva um programa que declare duas variáveis int e realize as operações de soma, subtração, multiplicação, divisão e módulo entre elas. Exiba os resultados de cada operação.
+ * 
+ * */
 public class OperacoesAritmeticas {
 	public static void main(String[] args) {
 		

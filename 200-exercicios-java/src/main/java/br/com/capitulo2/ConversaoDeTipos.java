@@ -1,5 +1,10 @@
 package br.com.capitulo2;
 
+/*
+ * 
+ * Escreva um programa que converta um valor double em int e outro valor int em double. Exiba os resultados das conversões e explique a diferença entre conversão explícita e implícita
+ * 
+ * */
 public class ConversaoDeTipos {
 	public static void main(String[] args) {
 		double valorDouble = 9.99;

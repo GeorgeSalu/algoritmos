@@ -2,6 +2,11 @@ package br.com.capitulo2;
 
 import java.util.Scanner;
 
+/*
+ * 
+ * Crie um programa que peça ao usuário para digitar seu nome e sobrenome. O programa deve exibir uma mensagem de boas-vindas concatenando o nome e o sobrenome do usuário. 
+ * 
+ * */
 public class ConcatenarStrings {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

@@ -2,6 +2,11 @@ package br.com.capitulo3;
 
 import java.util.Scanner;
 
+/*
+ * 
+ * Desenvolva um programa que leia a largura e a altura de um retângulo e calcule a área. Exiba o resultado no console.
+ * 
+ * */
 public class AreaRetangulo {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

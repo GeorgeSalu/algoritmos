@@ -2,6 +2,12 @@ package br.com.capitulo3;
 
 import java.util.Scanner;
 
+/*
+ * 
+ * Escreva um programa que leia dois números inteiros do usuário e exiba o resultado da potenciação do primeiro 
+ * número elevado ao segundo número (use o método Math.pow).
+ * 
+ * */
 public class Potenciacao {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);

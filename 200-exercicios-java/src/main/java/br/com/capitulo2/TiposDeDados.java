@@ -1,5 +1,10 @@
 package br.com.capitulo2;
 
+/*
+ * 
+ * Crie um programa que declare e inicialize variáveis de todos os tipos primitivos em Java (int, double, char, boolean, etc.). Exiba o valor de cada variável no console.
+ * 
+ * */
 public class TiposDeDados {
 	public static void main(String[] args) {
 		int idade = 25;

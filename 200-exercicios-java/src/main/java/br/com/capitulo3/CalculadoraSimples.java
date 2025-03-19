@@ -2,6 +2,11 @@ package br.com.capitulo3;
 
 import java.util.Scanner;
 
+/*
+ * 
+ * Crie um programa que leia dois números inteiros do usuário e exiba a soma, subtração, multiplicação, divisão e o módulo desses números no console.
+ * 
+ * */
 public class CalculadoraSimples {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
