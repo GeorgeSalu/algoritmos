@@ -15,9 +15,9 @@ public class ElegibilidadeVotacao {
 		int idade = scanner.nextInt();
 		
 		if(idade >= 18) {
-			System.out.println("voce é elegivel para votar");
+			System.out.println("você é elegivel para votar");
 		} else {
-			System.out.println("voce nao é elegivel para votar");
+			System.out.println("você nao é elegivel para votar");
 		}
 		
 		scanner.close();
