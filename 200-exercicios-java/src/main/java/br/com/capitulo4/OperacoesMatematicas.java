@@ -31,7 +31,11 @@ public class OperacoesMatematicas {
 				System.out.println("o resultado : "+(numero1*numero2));
 				break;
 			case '/':
-				System.out.println("o resultado : "+(numero1/numero2));
+				if(numero2 != 0) {
+					System.out.println("o resultado : "+(numero1/numero2));
+				} else {
+					System.out.println("divisao por zero nao é permitido");
+				}
 				break;
 			default:
 				System.out.println("operador invalido");
