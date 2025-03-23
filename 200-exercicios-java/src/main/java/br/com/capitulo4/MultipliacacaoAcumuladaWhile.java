@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * 
- * Enunciado: Desenvolva um programa que leia um número e multiplique esse número por 2 repetidamente até o valor exceder 1000.
+ * Desenvolva um programa que leia um número e multiplique esse número por 2 repetidamente até o valor exceder 1000.
  * 
  * 
  * */
