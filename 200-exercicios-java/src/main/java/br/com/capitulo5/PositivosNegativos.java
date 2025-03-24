@@ -31,5 +31,6 @@ public class PositivosNegativos {
 		System.out.println("quantidade de numeros positivos : "+positicos);
 		System.out.println("quntiadde de numeros negativos : "+negativos);
 		
+		scanner.close();
 	}
 }
