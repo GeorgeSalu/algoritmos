@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * 
- * Enunciado: Crie um programa que leia 10 números inteiros e exiba apenas os valores que estão em posições ímpares no array.
+ * Crie um programa que leia 10 números inteiros e exiba apenas os valores que estão em posições ímpares no array.
  * 
  * 
  * */
