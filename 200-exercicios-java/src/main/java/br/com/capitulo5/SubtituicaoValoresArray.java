@@ -35,7 +35,7 @@ public class SubtituicaoValoresArray {
 		}
 		
 		if(encontrado) {
-			System.out.println("o numero foi subtituido. novo array");
+			System.out.println("o numero foi substituido. novo array");
 			for(int numero: numeros) {
 				System.out.println(numero);
 			}
