@@ -15,7 +15,7 @@ public class ComparacaoArray {
 		int array1[] = new int[5];
 		int array2[] = new int[5];
 		
-		System.out.println("preencha o primiero array:");
+		System.out.println("preencha o primeiro array:");
 		for(int i = 0;i < array1.length; i++) {
 			System.out.println("elemento "+(i+1)+" :");
 			array1[i] = scanner.nextInt();
