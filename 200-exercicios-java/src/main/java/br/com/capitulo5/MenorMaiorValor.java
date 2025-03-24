@@ -33,5 +33,7 @@ public class MenorMaiorValor {
 		
 		System.out.println("maior valor : "+maior);
 		System.out.println("menor valor : "+menor);
+		
+		scanner.close();
 	}
 }
