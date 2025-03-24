@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * 
- * Enunciado: Crie um programa que leia 6 números inteiros e armazene-os em um array. Depois, exiba os valores do array na ordem inversa.
+ * Crie um programa que leia 6 números inteiros e armazene-os em um array. Depois, exiba os valores do array na ordem inversa.
  * 
  * 
  * */
