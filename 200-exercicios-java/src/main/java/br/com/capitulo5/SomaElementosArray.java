@@ -22,5 +22,6 @@ public class SomaElementosArray {
 		}
 		
 		System.err.println("A soma dos elementos do array é : "+soma);
+		scanner.close();
 	}
 }
