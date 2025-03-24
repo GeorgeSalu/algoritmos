@@ -24,5 +24,6 @@ public class InversaoArray {
 			System.err.println(numeros[i]);
 		}
 		
+		scanner.close();
 	}
 }
