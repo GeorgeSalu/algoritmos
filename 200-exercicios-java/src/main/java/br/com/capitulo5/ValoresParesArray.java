@@ -23,7 +23,7 @@ public class ValoresParesArray {
 		System.out.println("numeros pares no array");
 		for(int numero : numeros) {
 			if(numero % 2 == 0) {
-				System.out.println(numero);
+				System.out.print(numero+" ");
 			}
 		}
 		
