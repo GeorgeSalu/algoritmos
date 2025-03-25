@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
  * 
  * Crie um programa que declare uma matriz 3x3 e permita que o usuário insira valores inteiros para preencher essa matriz. 
- * Em seguida, exiba os valores da matriz no console.
+ * em seguida, exiba os valores da matriz no console.
  * 
  * 
  * */
