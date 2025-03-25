@@ -15,6 +15,7 @@ public class CriacaoMatriz {
 		
 		int matriz[][] = new int[3][3];
 		
+		// preenche a matriz
 		for(int i = 0;i < 3;i++) {
 			for(int j = 0;j < 3; j++) {
 				System.out.println("digite o valor para posicao ["+i+"]["+j+"]");
