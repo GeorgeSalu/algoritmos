@@ -39,5 +39,6 @@ public class BuscaMatriz {
 			System.out.println("numero nao encontrado");
 		}
 		
+		scanner.close();
 	}
 }
