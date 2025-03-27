@@ -1,3 +1,3 @@
 ## Algoritmos
 
-  Algoritmos e estruturas de dados
+  Algoritmos e estruturas de dados em java e js
