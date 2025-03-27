@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * 
- * Enunciado:  Escreva um programa que leia duas matrizes 3x3 e calcule a soma entre elas, exibindo a matriz resultante.
+ * Escreva um programa que leia duas matrizes 3x3 e calcule a soma entre elas, exibindo a matriz resultante.
  * 
  * 
  * */
