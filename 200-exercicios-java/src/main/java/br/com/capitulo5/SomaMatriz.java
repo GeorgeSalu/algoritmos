@@ -16,6 +16,7 @@ public class SomaMatriz {
 		int matrizB[][] = new int[2][2];
 		int soma[][] = new int[2][2];
 		
+		// preenchendo a matriz A
 		System.out.println("preenchendo a matriz A : ");
 		for(int i = 0;i < 2; i++) {
 			for(int j = 0;j < 2; j++) {
@@ -23,7 +24,8 @@ public class SomaMatriz {
 				matrizA[i][j] = scanner.nextInt();
 			}
 		}
-		
+
+		// preenchendo a matriz B
 		System.out.println("preenchendo a matriz B : ");
 		for(int i = 0;i < 2; i++) {
 			for(int j = 0;j < 2; j++) {
@@ -32,12 +34,14 @@ public class SomaMatriz {
 			}
 		}
 		
+		// somando as duas matrizes
 		for(int i = 0;i < 2; i++) {
 			for(int j = 0;j < 2; j++) {
 				soma[i][j] = matrizA[i][j] + matrizB[i][j];
 			}
 		}
 		
+		// exibindo a matriz resultante
 		System.out.println("soma das matrizes A e B : ");
 		for(int i = 0;i < 2; i++) {
 			for(int j = 0;j < 2; j++) {
