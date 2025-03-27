@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /*
  * 
- * Crie um programa que leia uma matriz 5x5 e conte quantos números pares existem na matriz. Exiba o total de números pares encontrados.
+ * Crie um programa que leia uma matriz 5x5 e conte quantos números pares existem na matriz. exiba o total de números pares encontrados.
  * 
  * 
  * */
