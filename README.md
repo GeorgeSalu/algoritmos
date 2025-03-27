@@ -1,3 +1,3 @@
-## algoritmos
+## Algoritmos
 
-  algoritmos e estruturas de dados
+  Algoritmos e estruturas de dados
