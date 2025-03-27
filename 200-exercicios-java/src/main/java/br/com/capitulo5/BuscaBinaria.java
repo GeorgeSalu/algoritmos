@@ -8,6 +8,10 @@ import java.util.Scanner;
  * Desenvolva um programa que leia 10 números inteiros, os ordene em ordem crescente e, em seguida, utilize o método de busca 
  * binária para encontrar um número fornecido pelo usuário. Exiba a posição do número se ele for encontrado.
  * 
+ * complexidade:
+ * 		a busca binaria tem complexidade de tempo 0(log n),o que a torna muito eficiente para grandes conjuntos de dados, no 
+ * programa, o array é ordenado com Arrays.sort(), e a busca binaria é realizada com Arrays.binarySearch()
+ * 
  * 
  * */
 public class BuscaBinaria {
