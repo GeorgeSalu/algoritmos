@@ -7,6 +7,9 @@ import java.util.Scanner;
  * Crie um programa que leia 10 números inteiros e um número adicional. O programa deve realizar uma busca 
  * linear no array para verificar se o número adicional está presente. Exiba a posição do número, se encontrado.
  * 
+ * complexidade:
+ * 		a busca linear tem complexidade de tempo 0(n), onde n é o numero de elementos no array, o que significa 
+ * que, no pior caso,pode ser necessario percorrer todos os elementos para encontrar o numero
  * 
  * */
 public class BuscaLinear {
