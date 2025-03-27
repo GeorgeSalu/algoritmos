@@ -16,14 +16,17 @@ public class BuscaLinear {
 		int numeros[] = new int[10];
 		boolean encontrado = false;
 		
+		// preenche o array
 		for(int i = 0;i < numeros.length; i++) {
 			System.out.println("digite o numero "+(i+1)+" : ");
 			numeros[i] = scanner.nextInt();
 		}
 		
+		// lendo o numero adicional
 		System.out.println("digite o numero que deseja buscar : ");
 		int numeroBuscado = scanner.nextInt();
 		
+		// realizando a busca linear
 		for(int i = 0;i < numeros.length; i++) {
 			if(numeros[i] == numeroBuscado) {
 				System.out.println("numero encontrado na posicao : "+i);
